@@ -1,0 +1,35 @@
+_repo: Histoire-parlementaire-de-France-Volume-I.Recueil-complet-des-discours-prononc-s-dans-les-cha__27905
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Guizot, François
+    aliases:
+    - Guizot, Monsieur (François)
+    - Guizot, François Pierre Guillaume
+    - Guisot, M. (François)
+    - Guizot, M. (François)
+    - Guizot, Francois Pierre Guillaume
+    birthdate: 1787
+    deathdate: 1874
+    gutenberg_agent_id: '5686'
+    url: http://www.gutenberg.org/2009/agents/5686
+    wikipedia: http://en.wikipedia.org/wiki/François_Guizot
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2009-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27905'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'France -- History -- Restoration, 1814-1830'
+title: "Histoire parlementaire de France,  Volume 1.\r\nRecueil complet des discours\
+  \ prononcés dans les chambres de 1819 à 1848"
+url: http://www.gutenberg.org/ebooks/27905
